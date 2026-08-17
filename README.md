@@ -20,10 +20,12 @@ How to run the program
 just run it bro
 
 Help
-Any advise for common problems or issues please contact throught github.
 
+Any advise for common problems or issues please contact throught github.
 command to run if program contains helper info
+
 Authors
+
 Contributors names and contact info
 
 ex. bdczq
@@ -34,6 +36,7 @@ ex. buisness.mxttero@github.com
 @fvcproductions
 
 Version History
+
 0.2
 Various bug fixes and optimizations
 See commit change or See release history(soon)
