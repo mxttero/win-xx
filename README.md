@@ -41,6 +41,7 @@ See commit change or See release history(soon)
 Initial Release
 
 License
+
 This project is licensed under the MIT License - see the LICENSE.md file for details
 Copyright 2026 mxttero
 This project is completely free and open source. However, that does not mean you own the rights to it. Please read this document for more information. You can reuse or integrate this script or any system from this project into your own repositories, as long as you credit the developer, mxttero (me).
