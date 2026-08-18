@@ -8,7 +8,7 @@ The source of this project is optimized, organized, and simplified to the highes
 
 This project is currently in beta testing. Feel free to create pull requests (you will be credited), report issues, or contact me through github.
 
-This module is used in AirHub V2. If you want to use it personally instead of integrating it for development purposes, I recommend using AirHub.
+This module is used in AirHub V2. If you want to use it personally instead of integrating it for development purposes, I recommend using AirHub via loadstring.
 ex. Windows 10/11
 
 Installing
