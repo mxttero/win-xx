@@ -33,7 +33,6 @@ ex. buisness.mxttero@github.com
 @mxttero
 @dbader
 @zenorocha
-@fvcproductions
 
 Version History
 
@@ -55,4 +54,3 @@ na
 @mxttero
 @dbader
 @zenorocha
-@fvcproductions
